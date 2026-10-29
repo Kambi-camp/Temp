@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kambi-logo.svg" alt="KAMBi" width="220">
+</p>
+
 # KAMBi x Textify Africa: Technical Documentation
 
 Submission document for the Textify Africa Innovation Competition.
@@ -18,6 +22,61 @@ online. Headquarters (HQ) staff run the platform from a separate console.
 The people KAMBi serves are often reached only by mobile phone, and many do not use
 smartphone apps. That is why SMS is not a side feature for us. It is the one channel
 that reaches everyone.
+
+## 1a. Why this matters
+
+Most health outreach in Tanzania still runs on paper forms, WhatsApp photos and memory. A
+camp screens hundreds of people in a day, and then the trail goes cold: nobody knows who
+went to the clinic, who needs a reminder, or what the numbers say. KAMBi fixes the full
+loop: record in a minute, work with no signal, protect the person, report in one tap, and
+bring people back with a message they can read on any phone. Textify Africa is the part
+that closes that loop.
+
+## 1b. What a person can do in KAMBi
+
+This is the user side of the product (staff tools are left out on purpose).
+
+**Get started**
+- Create an account with a phone number and a password. No email needed.
+- Three personal security questions and a device check keep the account safe and let a
+  person recover access without anyone's help.
+- Choose Kiswahili or English at any time. The whole app switches.
+- Install it like an app: Android download, or add to the home screen. It also works in
+  any browser.
+
+**Run a camp**
+- A step-by-step camp builder: name, place, dates, what to ask, who may help, and a
+  consent screen the volunteer must show.
+- Invite helpers with a referral link and see who joined.
+
+**Record people, even with no signal**
+- A fast entry form, about a minute per person, with a consent gate before anything is
+  saved.
+- Entries are saved on the phone first. When the network returns they sync on their own,
+  safely: sending twice never creates a duplicate.
+- If two phones disagree, nothing is overwritten. A person decides.
+- A person can withdraw consent, and their answers are wiped.
+- A printed or on-screen slip for the person recorded.
+
+**Report and share**
+- One-tap summary report as a print-ready PDF, a Word file or a spreadsheet.
+- Small groups are hidden automatically so no one can be identified from the numbers.
+- A Branding centre for photo frames, QR posters and the organization logo, so a camp
+  looks like itself.
+
+**Stay connected**
+- A feed with stories and photo posts, chat between teams, and a library where people
+  write and share guides with a simple editor.
+- Notifications and a personal "You" area for profile, devices and language.
+
+**Bring people back (where Textify comes in)**
+- When a person was referred to a clinic and has not gone, KAMBi can send a short,
+  respectful SMS reminder, limited in number and never to someone who opted out.
+- A person can reply through a simple follow-up link, with no account needed.
+
+**Private by design**
+- Names stay apart from the data used for reports.
+- Sensitive text can be redacted on the phone before it leaves the device.
 
 ## 2. Why Textify Africa
 
